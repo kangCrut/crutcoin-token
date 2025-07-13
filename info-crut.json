@@ -1,0 +1,8 @@
+{
+  "name": "CRUTCOIN",
+  "symbol": "CRUT",
+  "address": "0x0874e0ed54303f16f3b3bd41a740daa0622cefae",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/kangCrut/crutcoin-token/main/crutcoin-logo.png"
+}
